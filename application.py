@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 import time
 from cs50 import SQL
-# import sqlite3 as sl
+import sqlite3 as sl
 from flask import Flask, flash, jsonify, redirect, render_template, request, session
 from flask_session import Session
 from tempfile import mkdtemp
