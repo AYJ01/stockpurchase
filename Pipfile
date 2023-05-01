@@ -11,6 +11,8 @@ pandas = "*"
 fbprophet = "*"
 chart-studio = "*"
 numpy = "*"
-
+cs50 = "*"
+flask = "*"
+SQL = "*"
 [requires]
 python_version = "3.7"
